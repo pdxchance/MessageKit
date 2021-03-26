@@ -30,7 +30,7 @@
   <img src="https://raw.githubusercontent.com/MessageKit/MessageKit/master/Assets/TypingIndicator.png" title="MessageKit header" width="400">
 </p>
 
-## Goals
+## Goals - As modified by chance
 
 - Provide a :rotating_light:safe:rotating_light: environment for others to learn and grow through Open Source.
 - Make adding Chat:speech_balloon: to a project easy.
